@@ -1,2 +1,2 @@
 # personal-Website
-you can use my basic persol webdevelopment codes and Updated Summary in the porfolio
+you can use my basic persol webdevelopment codes and Updated Summary in the porfolio and also added the skills
